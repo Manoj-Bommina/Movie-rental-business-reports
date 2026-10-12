@@ -1,5 +1,4 @@
-rg4f+-360
-ui
+
 SELECT
     current_database() AS database_name,
     current_user AS database_user,
